@@ -1,2 +1,2 @@
 # goodplot
-template notebooks for making good plots in python
+template ipython notebooks for making good plots in python
